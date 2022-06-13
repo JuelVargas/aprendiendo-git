@@ -1,9 +1,3 @@
-Esto sera esto sera un fichero de los commits a revertir
+este es el readme del proyecto...
 
--modificacion para ejemplo de agregar por tipo de archivo.
-
-el cliente ya puede usar el readme en nuestros proyectos de mate
-
--Primer commit
-
--Segundo commit
+no se que mas poner :|

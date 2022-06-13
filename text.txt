@@ -2,4 +2,4 @@
 
  soy un chanchito feliz
 
- -midificacion para ejemplo de agrigacion por tipo
+ -modificacion para ejemplo de agregacion por tipo
