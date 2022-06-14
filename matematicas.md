@@ -1,4 +1,3 @@
-#Pinche cliente culero
 
 -estos son unos cambios que se aplicaran con rebase. y han sido exitosas
 
@@ -10,3 +9,5 @@ Este es un archivo de lectura del fichero
  estoy haciendo unos progresos muy chidos que seran interumpidos(modificacion para el ejemplo de Stash)
 
  los progresos ya fueron retomados
+ 
+ ### modificaciones desde GitHub
