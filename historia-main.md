@@ -1,5 +1,5 @@
 # Historia para la rama main
-hace unas semanas este curso empezo y dentro de poco terminara.
+Este curso se ha realizado en el mes de junio.
 
 ## inicios de la rama
 esta rama empezo llamandose master
